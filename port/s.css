@@ -1,0 +1,71 @@
+body{
+	font-family: montserrat;
+	background: url(background.jpg);
+	background-repeat: no-repeat;
+}
+.about-left-col img{
+	margin-left: 550px;
+}
+.section-info h1{
+	margin-top: 100px;
+	margin-left: 680px;
+	font-size: 60px;
+	color:#6B8E23;
+}
+.zz{
+	margin-left: 550px;
+}
+progress{
+	width: 60%;
+}
+.progress-div{
+	width:70%;
+	margin-left: 370px;
+	color: white; 
+
+}
+.progress-div p{
+	margin-bottom: 10px;
+	font-size: 20px;
+	padding-left: 80px;
+	text-align: justify;
+	color: red;
+}
+nav{
+	background: #285f63;
+	height: 80px;
+	width:100%;
+	margin-left: -5px;
+}
+label.logo{
+	color:white;
+	font-size:35px;
+	line-height: 80px;
+	padding: 0  100px;
+	font-weight: bold;
+}
+nav ul{
+	float: right;
+	margin-right: 20px;
+}
+
+nav ul li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0  5px;
+	text-decoration: none;
+}
+nav ul a{
+	color: White;
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 7px  13px;
+	border-
+	radius: 3px;
+	transition: .5s;
+
+}
+a.active,a:hover{
+	background: #1b9bff;
+	transition: .5s;
+}
